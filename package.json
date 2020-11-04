@@ -14,5 +14,11 @@
     "name": "Unity",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
+  },
+  "repository": {
+    "footprint": "9e9a7d70aa5a2198b051806d80e3f04b5785ccfb",
+    "type": "git",
+    "url": "https://github.com/Unity-Technologies/ScriptableRenderPipeline.git",
+    "revision": "3e04a9da77f7658a9bec4a2a8de3a4a40b169865"
   }
 }
